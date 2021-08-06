@@ -4,13 +4,13 @@
 */
 
 // Declarations
-
+// #todo
 var UserArray = [
     {
     "FirstName": "Jason",
     "LastName": "Briggs", 
     "Age": 38, 
-   #todo "Spoken languages": ["French", "Germamn", "Russian"]
+    "Spoken languages": ["French", "Germamn", "Russian"]
     },
     {
     "FirstName": "Tom",
